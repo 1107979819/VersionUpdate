@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VersionUpdate</string>
+    <string name="version_update_url">http://wenyl.top/android/update/updateinfo.json</string>
+</resources>
